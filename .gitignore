@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/src/generated/prisma
+.next/
+node_modules/
+prisma/dev.db
+prisma/dev.db-journal
+.env.local
